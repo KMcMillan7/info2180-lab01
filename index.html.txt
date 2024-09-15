@@ -6,6 +6,8 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>INFO2180 Lab 1</title>
     <link rel="stylesheet" href="styles.css">
+    <img src="Image.jpg" alt="The University of the West Indies">
+
 
 </head>
 <body>
